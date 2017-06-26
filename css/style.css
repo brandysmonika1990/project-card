@@ -1,0 +1,88 @@
+/* Main style START */
+html,
+body,
+.container-table {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,
+#wrap-two h1 {
+    font-size: 20px;
+}
+
+h1,
+p {
+    color: #ffffff;
+    padding: 5px;
+}
+
+p {
+    font-size: 30px;
+}
+
+#wrap-two h1 {
+    margin-top: 20%;
+    margin-left: 9%;
+    color: #000000;
+}
+
+.checkbox p {
+    font-size: 12px;
+    color: #000000;
+}
+/* Main style STOP */
+
+/* Style for container START */
+#wrap-one {
+    background-color: #0a2b3f;
+    padding: 25px 0;
+}
+
+#wrap-two {
+    padding: 25px 0;
+}
+
+.container-table {
+    display: table;
+}
+
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.container .row img {
+    margin-left: 30%;
+    padding-top: 20px;
+}
+
+.container .row .row-text {
+    margin-left: 33%;
+}
+/* Style for container START */
+
+/* Style for contact form START */
+form {
+    margin-left: 10%;
+    margin-top: 10px;
+}
+
+.checkbox {
+    margin-left: 5%;
+}
+
+.btn {
+    margin-left: 15%;
+    background-color: #a53a3a;
+    border: 1px solid #a53a3a;
+    color: #ffffff;
+}
+
+.btn:hover {
+    margin-left: 15%;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #a53a3a;
+}
+/* Style for contact form STOP */
